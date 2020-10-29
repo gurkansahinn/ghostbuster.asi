@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/lilAmper/ghostbuster.asi/blob/master/LICENSE)
+
 # ghostbuster.asi
 SA-MP için hazırlanmış bir anti hile eklentisi.
 
